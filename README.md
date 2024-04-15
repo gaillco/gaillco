@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Clément</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaillco" alt="gaillco" /></a> </p>
-
 - 🔭 I’m currently working on **SMMA**
 
 - 🌱 I’m currently learning **cybersecurity**
