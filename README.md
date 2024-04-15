@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **cybersecurity**
 
-- 👨‍💻 All of my projects are available at [clementgaillard.com](clementgaillard.com)
+<!-- - 👨‍💻 All of my projects are available at [clementgaillard.com](clementgaillard.net) -->
 
 - 📫 How to reach me : **discord or linkedin**
 
