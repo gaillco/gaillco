@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
+  <img src="visual-studio-code-1.svg" height="30" alt="vsc logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -28,8 +28,6 @@
 
 ###
 
-<img align="right" height="190" src="[URL of your chosen image]"  />
-
 ###
 
 <div align="left">
@@ -46,8 +44,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/loannrz/loannrz/output/snake.svg" alt="Snake animation" />
 
 ###
 
