@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaillco&show_icons=true&locale=en" alt="gaillco" /></p>
 
-<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/HAd3s.png" alt="TryHackMe">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/HAd3s.png" alt="TryHackMe">
