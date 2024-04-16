@@ -33,4 +33,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaillco&show_icons=true&locale=en" alt="gaillco" /></p>
 
- <script src="https://tryhackme.com/badge/2932910"></script>
+<script src="https://tryhackme.com/badge/2932910"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/HAd3s.png" alt="TryHackMe">
